@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{opacity:.5}.cls-3{fill:#154331}.cls-4{clip-path:url(#clip-path)}.cls-5{fill:#fff}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h15.999v16.001H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Groupe_721" class="cls-2" data-name="Groupe 721">
+        <path id="Rectangle_414" d="M0 0h40v40H0z" class="cls-3" data-name="Rectangle 414"/>
+        <g id="close_icon" class="cls-4" data-name="close icon" transform="translate(12.001 12)">
+            <path id="Tracé_1034" d="M2578.707 7423.727l-7.272 7.272-.727-.728 7.272-7.271-7.272-7.273.725-.728 7.274 7.273 7.273-7.273.727.728-7.273 7.273 7.273 7.271-.727.729z" class="cls-5" data-name="Tracé 1034" transform="translate(-2570.708 -7415)"/>
+        </g>
+    </g>
+</svg>
